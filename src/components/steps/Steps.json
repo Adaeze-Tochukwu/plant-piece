@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/images/water.svg",
+    "title": "Watering",
+    "paragraph": "water your plants when the top inch of soil feels dry to the touch. Avoid overwatering, as it can lead to root  dehydration."
+  },
+  {
+    "id": 2,
+    "image": "/images/sunlight.svg",
+    "title": "Sunlight",
+    "paragraph": "Most plants need adequate sunlight to thrive. Place your plants in areas that receive the appropriate amount of light for their specific needs."
+  },
+  {
+    "id": 3,
+    "image": "/images/fertilizer.svg",
+    "title": "Nutrients and Fertilizing",
+    "paragraph": "Choose a suitable fertilizer based on the specific needs of your plants, whether it's a balanced or specialized formula."
+  }
+]
