@@ -1,0 +1,16 @@
+.btn {
+  background-color: var(--font);
+  display: flex;
+  width: 191px;
+  height: 62px;
+  padding: 33px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  color: var(--white, #fcfcfc);
+  text-align: center;
+  font-size: 16px;
+  font-family: Raleway;
+  line-height: 154.5%;
+}
