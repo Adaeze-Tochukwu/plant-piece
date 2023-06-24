@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "list": "Indoor plants",
+    "arrow": "/images/arrow-right-black.svg"
+  },
+  {
+    "id": 2,
+    "list": "Outdoor plants",
+    "arrow": "/images/arrow-right-green.svg"
+  },
+  {
+    "id": 3,
+    "list": "Gardening Kits",
+    "arrow": "/images/arrow-right-green.svg"
+  },
+  {
+    "id": 4,
+    "list": "Fertilizers and neutrients",
+    "arrow": "/images/arrow-right-green.svg"
+  },
+  {
+    "id": 5,
+    "list": "Plant care accessories",
+    "arrow": "/images/arrow-right-green.svg"
+  },
+  {
+    "id": 6,
+    "list": "Garden Decors",
+    "arrow": "/images/arrow-right-green.svg"
+  }
+]

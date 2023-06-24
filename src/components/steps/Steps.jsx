@@ -5,6 +5,7 @@ import Button from "../button/Button";
 import Photo1 from "../../assets/images/step-photo1.svg";
 import Photo2 from "../../assets/images/step-photo2.svg";
 import Photo3 from "../../assets/images/step-photo3.svg";
+import Heading from '../heading/Heading';
 
 export default function Steps() {
   const [steps, setSteps] = useState([]);
@@ -15,16 +16,8 @@ export default function Steps() {
 
   return (
     <div className="steps">
-      <div className="steps__heading">
-        <h2>
-          steps to take care of your <span>plants</span>
-        </h2>
-        <h6>
-          By following these three steps - proper watering, appropriate
-          sunlight, and providing essential nutrients - you'll be well on your
-          way to maintaining healthy and thriving plants.
-        </h6>
-      </div>
+      <Heading heading="Steps To Take Care Of Your" span="Plants" />
+
       <div className="steps__lists">
         {steps.map((step) => (
           <ul key={step.id}>
