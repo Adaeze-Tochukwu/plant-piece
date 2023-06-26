@@ -1,0 +1,55 @@
+.subscribe {
+  background-color: var(--white);
+
+  &__content {
+    background-image: url(/images/background-subscribe.svg);
+    background-repeat: no-repeat;
+  }
+
+  h2 {
+    color: var(--white, #fcfcfc);
+    text-align: center;
+    font-size: 64px;
+    font-family: EB Garamond;
+    font-weight: 700;
+    text-transform: capitalize;
+  }
+
+  p {
+    color: var(--white, #fcfcfc);
+    text-align: center;
+    font-size: 16px;
+    font-family: Raleway;
+    line-height: 174.188%;
+    letter-spacing: 0.08px;
+  }
+
+  form {
+    display: inline-flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+    input {
+      border: none;
+      width: 200px;
+      outline: none;
+      padding: 10px;
+
+      input::placeholder {
+        color: red;
+        font-size: 16px;
+        font-family: Raleway;
+        line-height: 154.5%;
+      }
+    }
+
+    Link {
+      border: 1px solid var(--primary-lunar-green, #354733);
+      text-align: center;
+      justify-self: center;
+      background-color: yellow;
+    }
+  }
+}

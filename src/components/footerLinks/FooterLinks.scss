@@ -1,0 +1,24 @@
+.footerLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  
+  h3 {
+    color: #fff;
+    font-size: 24px;
+    font-family: Lato;
+    font-weight: 700;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    li {
+      color: #fff;
+      font-size: 16px;
+      font-family: Raleway;
+      line-height: 154.5%;
+    }
+  }
+}

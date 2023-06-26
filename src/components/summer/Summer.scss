@@ -1,8 +1,8 @@
 .summer {
   max-width: 100vw;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 50px;
+  margin: 0px auto 0 auto;
+  padding: 50px 0 50px 0;
+  background-color: var(--white);
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -5,6 +5,8 @@ import Steps from '../components/steps/Steps';
 import BestSelling from '../components/bestSelling/BestSelling';
 import Categories from '../components/categories/Categories';
 import Summer from '../components/summer/Summer';
+import Subscribe from '../components/subscribe/Subscribe';
+import Footer from '../components/footer/Footer';
 
 export default function Home() {
   return (
@@ -15,6 +17,8 @@ export default function Home() {
       <BestSelling />
       <Categories />
       <Summer />
+      <Subscribe />
+      <Footer />
     </div>
   );
 }
