@@ -4,6 +4,7 @@ import Hero from "../components/hero/Hero";
 import Steps from '../components/steps/Steps';
 import BestSelling from '../components/bestSelling/BestSelling';
 import Categories from '../components/categories/Categories';
+import Summer from '../components/summer/Summer';
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Steps />
       <BestSelling />
       <Categories />
+      <Summer />
     </div>
   );
 }
