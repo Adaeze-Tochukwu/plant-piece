@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.scss";
 import FooterLinks from "../footerLinks/FooterLinks";
-import logo from "../../assets/images/logo.svg";
+import logo from "../../assets/images/logo-footer.svg";
 
 export default function Footer() {
   return (
