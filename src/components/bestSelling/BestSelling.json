@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "/images/category1.svg",
+    "caption": "Echinocereus Cactus",
+    "current": "$15.00",
+    "previous": "$35.00",
+    "tag": "Indoor"
+  },
+  {
+    "id": 2,
+    "image": "/images/category2.svg",
+    "caption": "Modern Picture",
+    "current": "$15.00",
+    "previous": "$35.00",
+    "tag": "Indoor"
+  },
+  {
+    "id": 3,
+    "image": "/images/category3.svg",
+    "caption": "Modern Picture",
+    "current": "$15.00",
+    "previous": "$35.00",
+    "tag": "Outdoor"
+  },
+  {
+    "id": 4,
+    "image": "/images/category4.svg",
+    "caption": "Modern Picture",
+    "current": "$15.00",
+    "previous": "$35.00",
+    "tag": "Label"
+  }
+]
